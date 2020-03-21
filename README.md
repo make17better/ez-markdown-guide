@@ -209,6 +209,6 @@ ___粗斜体___
 
 ```markdown
 $$
-在这里输入TeX 或 LaTeX公式
+在这里输入 TeX 或 LaTeX 公式
 $$
 ```
